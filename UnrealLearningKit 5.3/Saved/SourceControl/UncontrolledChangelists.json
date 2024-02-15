@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/UIUC/CS415/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.uasset",
+				"C:/UIUC/CS415/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/PlayerCharacter/PursuerAiController.uasset",
+				"C:/UIUC/CS415/UnrealLearningKit 5.3/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/UIUC/CS415/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/PlayerCharacter/EAIState.uasset",
+				"C:/UIUC/CS415/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/Interactables/Lever_BP.uasset",
+				"C:/UIUC/CS415/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/UIUC/CS415/UnrealLearningKit 5.3/Content/LearningKit_Games/Assets/Characters/Character/Animations/epicCharacter_AnimBP.uasset",
+				"C:/UIUC/CS415/UnrealLearningKit 5.3/Content/BlockGame/PlayerCharacter/BlockCharacter_AnimBP.uasset",
+				"C:/UIUC/CS415/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/AI/BPI_LearningKit_PlayerInteractions.uasset",
+				"C:/UIUC/CS415/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/PlayerCharacter/BPI_LearningKit_PlayerInteractions.uasset",
+				"C:/UIUC/CS415/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/AI/BP_Pursuer.uasset",
+				"C:/UIUC/CS415/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/AI/EAIState.uasset",
+				"C:/UIUC/CS415/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/AI/PursuerAiController.uasset",
+				"C:/UIUC/CS415/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/HUD/Health.uasset",
+				"C:/UIUC/CS415/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/BaseClasses/Master_Pickup_BP.uasset",
+				"C:/UIUC/CS415/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/HUD/Score.uasset",
+				"C:/UIUC/CS415/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/HUD/HUD.uasset",
+				"C:/UIUC/CS415/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/HUD/Dead.uasset"
+			]
+		}
+	]
+}
